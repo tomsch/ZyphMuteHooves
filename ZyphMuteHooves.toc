@@ -3,6 +3,6 @@
 ## Notes: Mutes all mount footstep sounds
 ## Author: Zyph
 ## Version: 2.0.0
-## SavedVariables: ZyphMuteHooves_CustomSounds
+## SavedVariables: ZyphMuteHooves_CustomSounds, ZyphMuteHooves_PlayerMuted, ZyphMuteHooves_AllMuted
 
 ZyphMuteHooves.lua
